@@ -6,7 +6,7 @@ Este projeto implementa um pipeline de visão computacional em nuvem projetado p
 A solução foca na eficiência de processamento em ambientes de hardware limitado, utilizando a **Oracle Cloud Infrastructure (OCI)** para hospedar a lógica de IA e o **Cloudflare Tunnels** para garantir uma conectividade segura e estável, superando limitações de DNS dinâmico e endereçamento fixo.
 
 <div align="center">
-  <img src="img/gesture_analysis_preview.png" alt="Streamlit Interface" width="800">
+  <img src="img/streamlit.png" alt="Streamlit Interface" width="800">
   <br>
   <em>Streamlit Interface - Detecção de Landmarks e Contagem de Dedos em Tempo Real</em>
 </div>
