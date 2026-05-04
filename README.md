@@ -28,6 +28,18 @@ A arquitetura foi otimizada para rodar em uma instância **OCI Always Free** com
 
 ---
 
+## 🖼️ Results Gallery
+Abaixo, exemplos reais de captura e análise processados na instância OCI:
+
+<p align="center">
+  <img src="img/app.py.jpg" width="45%" />
+  <img src="img/2fingers.jpg" width="45%" />
+</p>
+<p align="center">
+  <img src="img/4fingers.jpg" width="45%" />
+  <img src="img/4fingers 2.jpg" width="45%" />
+</p>
+
 ## 🛠 Tech Stack
 * **Languages:** Python 3.12.
 * **AI/Vision:** MediaPipe (Core), OpenCV.
