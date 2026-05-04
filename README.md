@@ -14,7 +14,7 @@ A solução foca na eficiência de processamento em ambientes de hardware limita
 ---
 
 ## 🏗 Architecture
-A arquitetura foi otimizada para rodar em uma instância **OCI Always Free** com recursos mínimos (1 Core), demonstrando resiliência técnica e "Owner Mindset":
+A arquitetura foi otimizada para rodar em uma instância **OCI Always Free** com recursos mínimos (1 Core). Adicionamos um arquivo SWAP para aumentar a RAM:
 
 ### 1. Interface & Capture Layer (Edge/Browser)
 * **Framework:** Streamlit Web App para interface do usuário.
