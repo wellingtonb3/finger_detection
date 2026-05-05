@@ -74,4 +74,4 @@ Abaixo, exemplos reais de captura e análise processados na instância OCI:
 ---
 
 **Developed by:** [Wellington Carlos / UNIVESP]
-*Especialista em TI em transição para Data Science & Analytics | Oracle ACE Apprentice.*
+*Data Science & Analytics.*
